@@ -36,14 +36,14 @@ body
 #Button1
 {
    box-sizing: border-box;
-   line-height: 18px;
+   line-height: 33px;
    text-decoration: none;
    vertical-align: top;
-   border: 1px solid #0D6EFD;
+   border: 1px ridge #000000;
    border-radius: 4px;
-   background-color: #0D6EFD;
+   background-color: #F5F5F5;
    background-image: none;
-   color: #FFFFFF;
+   color: #000000;
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
@@ -74,7 +74,7 @@ body
 }
 #Editbox1
 {
-   line-height: 18px;
+   line-height: 27px;
    margin: 0;
    border: 1px solid #DEE2E6;
    border-radius: 4px;
