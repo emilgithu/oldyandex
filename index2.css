@@ -50,7 +50,7 @@ body
 }
 #Editbox1
 {
-   line-height: 27px;
+   line-height: 20px;
    margin: 0;
    border: 1px solid #DEE2E6;
    border-radius: 4px;
@@ -83,174 +83,6 @@ body
 #wb_Text4 div
 {
    text-align: left;
-}
-#Button2
-{
-   box-sizing: border-box;
-   line-height: 26px;
-   text-decoration: none;
-   vertical-align: top;
-   border: 1px solid #0D6EFD;
-   border-radius: 4px;
-   background-color: #0D6EFD;
-   background-image: none;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 16px;
-   padding: 1px 6px 1px 6px;
-   text-align: center;
-   -webkit-appearance: none;
-   margin: 0;
-}
-#Button2:focus
-{
-   outline: 0;
-}
-#Button3
-{
-   box-sizing: border-box;
-   line-height: 21px;
-   text-decoration: none;
-   vertical-align: top;
-   border: 1px solid #0D6EFD;
-   border-radius: 4px;
-   background-color: #0D6EFD;
-   background-image: none;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 16px;
-   padding: 1px 6px 1px 6px;
-   text-align: center;
-   -webkit-appearance: none;
-   margin: 0;
-}
-#Button3:focus
-{
-   outline: 0;
-}
-#Button4
-{
-   box-sizing: border-box;
-   line-height: 20px;
-   text-decoration: none;
-   vertical-align: top;
-   border: 1px solid #0D6EFD;
-   border-radius: 4px;
-   background-color: #0D6EFD;
-   background-image: none;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 16px;
-   padding: 1px 6px 1px 6px;
-   text-align: center;
-   -webkit-appearance: none;
-   margin: 0;
-}
-#Button4:focus
-{
-   outline: 0;
-}
-#Button5
-{
-   box-sizing: border-box;
-   line-height: 23px;
-   text-decoration: none;
-   vertical-align: top;
-   border: 1px solid #0D6EFD;
-   border-radius: 4px;
-   background-color: #0D6EFD;
-   background-image: none;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 16px;
-   padding: 1px 6px 1px 6px;
-   text-align: center;
-   -webkit-appearance: none;
-   margin: 0;
-}
-#Button5:focus
-{
-   outline: 0;
-}
-#Button6
-{
-   box-sizing: border-box;
-   line-height: 26px;
-   text-decoration: none;
-   vertical-align: top;
-   border: 1px solid #0D6EFD;
-   border-radius: 4px;
-   background-color: #0D6EFD;
-   background-image: none;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 16px;
-   padding: 1px 6px 1px 6px;
-   text-align: center;
-   -webkit-appearance: none;
-   margin: 0;
-}
-#Button6:focus
-{
-   outline: 0;
-}
-#Button7
-{
-   box-sizing: border-box;
-   line-height: 28px;
-   text-decoration: none;
-   vertical-align: top;
-   border: 1px solid #0D6EFD;
-   border-radius: 4px;
-   background-color: #0D6EFD;
-   background-image: none;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 16px;
-   padding: 1px 6px 1px 6px;
-   text-align: center;
-   -webkit-appearance: none;
-   margin: 0;
-}
-#Button7:focus
-{
-   outline: 0;
-}
-#Button8
-{
-   box-sizing: border-box;
-   line-height: 20px;
-   text-decoration: none;
-   vertical-align: top;
-   border: 1px solid #0D6EFD;
-   border-radius: 4px;
-   background-color: #0D6EFD;
-   background-image: none;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 16px;
-   padding: 1px 6px 1px 6px;
-   text-align: center;
-   -webkit-appearance: none;
-   margin: 0;
-}
-#Button8:focus
-{
-   outline: 0;
 }
 #wb_Image4
 {
@@ -494,7 +326,7 @@ body
 #Button1
 {
    box-sizing: border-box;
-   line-height: 33px;
+   line-height: 29px;
    text-decoration: none;
    vertical-align: top;
    border: 1px ridge #000000;
